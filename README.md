@@ -95,22 +95,23 @@ GameLens is a user-friendly Game Review Application that allows users to explore
 
 ---
 
-🔧 Installation & Setup
+## 🔧 Installation & Setup
 Follow these steps to run the project locally:
 
-1️⃣ Clone the Repository
-
+##1️⃣ Clone the Repository
+```bash
 git clone https://github.com/your-username/gamelens.git
-
-
 cd gamelens
-2️⃣ Install Dependencies
 
+---
+##2️⃣ Install Dependencies
+
+```bash
 npm install
 
+---
 
-
-3️⃣ Set Up Firebase
+##3️⃣ Set Up Firebase
 Follow these steps:
 
 Create a Firebase project.
@@ -124,9 +125,10 @@ VITE_FIREBASE_STORAGE_BUCKET=voluntry-1b481.firebasestorage.app
 VITE_FIREBASE_MESSAGING_SENDER_ID=783830556628
 VITE_FIREBASE_APP_ID=1:783830556628:web:6f591828757798ca850041
 
+---
+##4️⃣ Start the Development Server
 
-4️⃣ Start the Development Server
-
+```bash
 npm run dev
 
 
