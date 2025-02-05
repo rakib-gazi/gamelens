@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "675c7b81d63e3aa6b598f850",
+    "title": "The Witcher 3: Wild Hunt",
+    "thumbnail": "https://i.ibb.co.com/zbL7mNx/header.jpg",
+    "rating": 5,
+    "year": 2015,
+    "genres": "RPG",
+    "Price": 400
+  },
+  {
+    "_id": "675c7b82d63e3aa6b598f851",
+    "title": "Red Dead Redemption 2",
+    "thumbnail": "https://i.ibb.co.com/8YD38yh/header-1.jpg",
+    "rating": 4.9,
+    "year": 2018,
+    "genres": "Adventure",
+    "Price": 382
+  },
+  {
+    "_id": "675c7b83d63e3aa6b598f852",
+    "title": "Cyberpunk 2077",
+    "thumbnail": "https://i.ibb.co.com/DGcQm97/header-2.jpg",
+    "rating": 4.5,
+    "year": 2020,
+    "genres": "RPG",
+    "Price": 690
+  },
+  {
+    "_id": "675c7b84d63e3aa6b598f853",
+    "title": "Elden Ring",
+    "thumbnail": "https://i.ibb.co.com/0XWQ4p1/header-3.jpg",
+    "rating": 5,
+    "year": 2022,
+    "genres": "Action RPG",
+    "Price": 283
+  },
+  {
+    "_id": "675c7b85d63e3aa6b598f854",
+    "title": "Grand Theft Auto V",
+    "thumbnail": "https://i.ibb.co.com/x7787Dt/header-4.jpg",
+    "rating": 4.8,
+    "year": 2013,
+    "genres": "Action",
+    "Price": 520
+  },
+  {
+    "_id": "675c7b86d63e3aa6b598f855",
+    "title": "Starfield",
+    "thumbnail": "https://i.ibb.co.com/bJs4p8P/header-5.jpg",
+    "rating": 4.7,
+    "year": 2023,
+    "genres": "RPG",
+    "Price": 870
+  }
+  
+]
