@@ -95,36 +95,38 @@ GameLens is a user-friendly Game Review Application that allows users to explore
 
 ---
 
-<h2>🔧 Installation & Setup</h2>
+🔧 Installation & Setup
+Follow these steps to run the project locally:
 
-<p>Follow these steps to run the project locally:</p>
+1️⃣ Clone the Repository
 
-<h3>1️⃣ Clone the Repository</h3>
-<pre><code>git clone https://github.com/your-username/gamelens.git
-cd gamelens</code></pre>
+git clone https://github.com/your-username/gamelens.git
 
-<h3>2️⃣ Install Dependencies</h3>
-<pre><code>npm install</code></pre>
 
-<h3>3️⃣ Set Up Firebase</h3>
-<p>Follow these steps:</p>
-<ul>
-  <li>Create a Firebase project.</li>
-  <li>Enable Authentication (Email/Password & Google).</li>
-  <li>Get the Firebase Config and create a <code>.env</code> file:</li>
-</ul>
+cd gamelens
+2️⃣ Install Dependencies
 
-<pre><code>VITE_apiKey=AIzaSyCDX_OmGG28DtrdmC-Fp3rARw1IbYP_Xo4
-VITE_authDomain=voluntry-1b481.firebaseapp.com
-VITE_projectId=voluntry-1b481
-VITE_storageBucket=voluntry-1b481.firebasestorage.app
-VITE_messagingSenderId=783830556628
-VITE_appId=1:783830556628:web:6f591828757798ca850041</code></pre>
+npm install
 
-<h3>4️⃣ Start the Development Server</h3>
-<pre><code>npm run dev</code></pre>
 
-<p>The project should now be running at <a href="http://localhost:5173/">http://localhost:5173/</a> 🎉</p>
 
+3️⃣ Set Up Firebase
+Follow these steps:
+
+Create a Firebase project.
+Enable Authentication (Email/Password & Google).
+Get the Firebase Config and create a .env file:
+
+VITE_FIREBASE_API_KEY=AIzaSyCDX_OmGG28DtrdmC-Fp3rARw1IbYP_Xo4
+VITE_FIREBASE_AUTH_DOMAIN=voluntry-1b481.firebaseapp.com
+VITE_FIREBASE_PROJECT_ID=voluntry-1b481
+VITE_FIREBASE_STORAGE_BUCKET=voluntry-1b481.firebasestorage.app
+VITE_FIREBASE_MESSAGING_SENDER_ID=783830556628
+VITE_FIREBASE_APP_ID=1:783830556628:web:6f591828757798ca850041
+
+
+4️⃣ Start the Development Server
+
+npm run dev
 
 
